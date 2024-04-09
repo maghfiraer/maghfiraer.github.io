@@ -56,7 +56,7 @@ params:
     profileMode:
           enabled: true
           title: Maghfira Ramadhani
-          subtitle: "Welcome to my personal website! You can call me Afi. I am a PhD student at Georgia Institute of Technology, [School of Economics](https://econ.gatech.edu).\n \n \n My research interests are in energy and environmental economics and applied microeconomics."
+          subtitle: "Welcome to my personal website! You can call me Afi. I am a PhD student at Georgia Institute of Technology, [School of Economics](https://econ.gatech.edu).\n <br> My research interests are in energy and environmental economics and applied microeconomics."
           imageUrl: "/picture.jpg"
           imageWidth: 170
           imageHeight: 170
