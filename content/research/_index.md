@@ -11,6 +11,8 @@ description: "List of research activity"
 
 ## Work in Progress
 
+- "How do households respond to grid emergency? Evidence from California's Flex Alert"
+
 - "Measuring benefit of residential battery storage"
 
 - "Managing Transition to Intermittent Renewable Electric Power" (with Daniel Matisoff and Matthew Oliver)
