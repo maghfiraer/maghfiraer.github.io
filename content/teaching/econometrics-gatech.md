@@ -1,7 +1,7 @@
 ---
 title: "Econometric Analysis" 
 date: 2022-08-26
-url: /c3/
+url: /econometrics-gatech/
 aliases: 
     - /t5.html
     - /t4.html
