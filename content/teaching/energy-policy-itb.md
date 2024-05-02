@@ -1,7 +1,7 @@
 ---
 title: "Energy Policy and Planning" 
 date: 2018-08-26
-url: /c2/
+url: /energy-policy-itb/
 aliases: 
     - /t5.html
     - /t4.html
