@@ -15,7 +15,7 @@ description: "List of research activity"
 
 - "Measuring benefit of residential battery storage"
 
-- "Managing Transition to Intermittent Renewable Electric Power" (with Daniel Matisoff and Matthew Oliver)
+- "Managing Transition to Intermittent Renewable Electric Power" (with Daniel Matisoff, Matthew Oliver, Santiago Grijalva, Oliver Chapman, and Amanda West)
 
 ---
 
