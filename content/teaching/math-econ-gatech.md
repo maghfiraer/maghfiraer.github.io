@@ -1,7 +1,7 @@
 ---
 title: "Mathematics for Economic Modelling" 
 date: 2023-01-16
-url: /c4/
+url: /math-econ-gatech/
 aliases: 
     - /t5.html
     - /t4.html
