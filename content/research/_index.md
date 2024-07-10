@@ -3,15 +3,15 @@ title: "Research"
 description: "List of research activity"
 ---
 
-## Peer-Reviewed
+#### Peer-Reviewed
 
 - "National oil companies and fossil fuel subsidy regimes in transition: The case of Indonesia." (with Muhammad Ichsan and Matthew Lockwood). <i>The Extractive Industries and Society</i>. 2022. https://doi.org/10.1016/j.exis.2022.101104
 
 ---
 
-## Work in Progress
+#### Work in Progress
 
-- "How do households respond to grid emergency? Evidence from California's Flex Alert"
+- "Digital Dispatch and Demand Response in Grid Emergencies: Evidence from Household Cooling in California’s Flex Alerts"
 
 - "Measuring benefit of residential battery storage"
 
@@ -19,7 +19,7 @@ description: "List of research activity"
 
 ---
 
-## Conference Proceeding
+#### Conference Proceeding
 
 - "Is cheap fuel policy a (short-term) remedy for costly transportation in rural Indonesia?" (with Muhammad Ichsan, Yusuf Martak, Chitra Septyandrica, and Purnomo Yusgiantoro). <i>Proceeding of Medan International Conference on Energy and Sustainability 2020</i>. 2021. http://doi.org/10.1088/1755-1315/753/1/012030
 
@@ -33,7 +33,7 @@ description: "List of research activity"
 
 ---
 
-## Policy Brief
+#### Policy Brief
 - "Persembahan ITB: Energi untuk Indonesia [ITB’s Policy Recommendation: Energy for Indonesia]." 2020. ITB Press: Bandung. ISBN 978-623-297-022-9 (Editor)
 
  
