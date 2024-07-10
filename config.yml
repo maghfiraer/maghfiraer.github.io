@@ -41,11 +41,12 @@ params:
     ShowShareButtons: false
     ShowReadingTime: false
     disableSpecial1stPost: true
-    disableAnchoredHeadings: false
+    disableAnchoredHeadings: true
     ShowPostNavLinks: false
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowRssButtonInSectionTermList: false
+    MainSections: ["research", "teaching"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
