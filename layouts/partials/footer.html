@@ -1,8 +1,18 @@
 {{- if not (.Param "hideFooter") }}
 <footer class="footer">
-<!--     {{- if site.Copyright }}
+    {{- if not site.Params.footer.hideCopyright }}
+    {{- if site.Copyright }}
     <span>{{ site.Copyright | markdownify }}</span>
-    {{- else }} -->
+    {{- else }}
+    <span>&copy; {{ now.Year }} <a href="{{ "" | absLangURL }}">{{ site.Title }}</a></span>
+    {{- end }}
+    {{- print " · "}}
+    {{- end }}
+
+    {{- with site.Params.footer.text }}
+    {{ . | markdownify }}
+    {{- print " · "}}
+    {{- end }}    
     <span>
         Powered by 
         <a href="https://maghfiraer.github.io/" rel="noopener noreferrer" target="_blank">Maghfira Ramadhani</a> &
@@ -12,14 +22,6 @@
     </span>
         &middot;&ensp;<a href="mailto:maghfira.ramadhani@gatech.edu">Contact by email</a>&ensp;&middot;
     </span>
-    <!-- by <a href="{{ "" | absLangURL }}">{{ site.Title }} -->
-    <!-- &middot; {{ now.Month }} {{ now.Year }} -->
-    <!-- {{- end }} -->
-<!--     <span>
-        Powered by
-        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
-        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
-    </span> -->
 </footer>
 {{- end }}
 
