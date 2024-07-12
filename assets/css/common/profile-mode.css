@@ -13,14 +13,14 @@
 
 .profile .profile_inner h1 {
     padding: 12px 0;
-    font-size: 50px;
+    font-size: 40px;
 }
 
 .profile img {
     display: inline-table;
     border-radius: 50%;
-    width: 150px; /* Adjust the size as needed */
-    height: 150px; /* Adjust the size as needed */
+    width: 300px; /* Adjust the size as needed */
+    height: 300px; /* Adjust the size as needed */
 }
 
 .buttons {
