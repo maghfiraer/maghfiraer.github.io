@@ -7,8 +7,12 @@ description: "List of research activity"
 
 - "National oil companies and fossil fuel subsidy regimes in transition: The case of Indonesia." (with Muhammad Ichsan and Matthew Lockwood). <i>The Extractive Industries and Society</i>. 2022. https://doi.org/10.1016/j.exis.2022.101104
   <details>
-  <summary><i>Wow, so fancy</i></summary>
-  <b>WOW, SO BOLD</b>
+  <summary>Abstract</summary>
+  <b>Abstract here</b>
+ </details>
+ <details>
+  <summary>Bibtex</summary>
+  <b>Bibtex here</b>
  </details>
 
 ---
