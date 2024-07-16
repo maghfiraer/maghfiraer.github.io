@@ -16,9 +16,8 @@ description: "List of research activity"
 #### Peer-Reviewed
 
 - "National oil companies and fossil fuel subsidy regimes in transition: The case of Indonesia." (with Muhammad Ichsan and Matthew Lockwood). <i>The Extractive Industries and Society</i>. 2022. https://doi.org/10.1016/j.exis.2022.101104
-  <details><summary>Abstract</summary><b>Abstract here</b></details>&nbsp;
+  <details><summary>Abstract</summary><p>Abstract here</p></details>&nbsp;
   <details><summary>Bibtex</summary><b>Bibtex here</b></details>
-- "National oil companies and fossil fuel subsidy regimes in transition: The case of Indonesia." (with Muhammad Ichsan and Matthew Lockwood). <i>The Extractive Industries and Society</i>. 2022. https://doi.org/10.1016/j.exis.2022.101104
 
 ---
 #### Conference Proceeding
