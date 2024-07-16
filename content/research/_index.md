@@ -28,11 +28,11 @@ description: "List of research activity"
   volume = {11},
   pages = {101104},
   year = {2022},
-  issn = {2214-790X},
   doi = {https://doi.org/10.1016/j.exis.2022.101104},
   url = {https://www.sciencedirect.com/science/article/pii/S2214790X2200065X},
   }
-  ```</details>
+  ```
+  </details>
 
 ---
 #### Conference Proceeding
