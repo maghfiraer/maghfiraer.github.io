@@ -35,6 +35,18 @@ description: "List of research activity"
 ```
   </details>
 
+<details>
+<summary>last sub-section</a></summary>
+  
+blablabla
+
+```rb
+def some_code
+  puts "Rails is so cool"
+end
+```
+</details>
+
 ---
 #### Conference Proceeding
 
