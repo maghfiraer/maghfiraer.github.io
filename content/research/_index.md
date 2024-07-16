@@ -21,7 +21,7 @@ description: "List of research activity"
   </details>
   <details><summary>Bibtex</summary>
   
-```BibTeX
+  ```BibTeX
   @article{ichsan2022FFS,
   title = {National oil companies and fossil fuel subsidy regimes in transition: The case of Indonesia},
   author = {Muhammad Ichsan and Matthew Lockwood and Maghfira Ramadhani},
@@ -32,20 +32,9 @@ description: "List of research activity"
   doi = {https://doi.org/10.1016/j.exis.2022.101104},
   url = {https://www.sciencedirect.com/science/article/pii/S2214790X2200065X},
   }
-```
-  </details>
-
-<details>
-<summary>last sub-section</a></summary>
+  ```
   
-blablabla
-
-```rb
-def some_code
-  puts "Rails is so cool"
-end
-```
-</details>
+  </details>
 
 ---
 #### Conference Proceeding
