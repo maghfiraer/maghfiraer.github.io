@@ -40,7 +40,7 @@ params:
     disableThemeToggle: true
     ShowShareButtons: false
     ShowReadingTime: false
-    disableSpecial1stPost: true
+    disableSpecial1stPost: false
     disableAnchoredHeadings: true
     ShowPostNavLinks: false
     ShowBreadCrumbs: false
