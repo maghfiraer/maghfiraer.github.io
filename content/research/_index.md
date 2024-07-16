@@ -9,7 +9,7 @@ description: "List of research activity"
   <details>
   <summary>Abstract</summary>
   <b>Abstract here</b>
- </details><details>
+ </details>&nbsp;<details>
   <summary>Bibtex</summary>
   <b>Bibtex here</b>
  </details>
