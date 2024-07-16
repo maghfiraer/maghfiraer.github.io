@@ -3,19 +3,6 @@ title: "Research"
 description: "List of research activity"
 ---
 
-#### Peer-Reviewed
-
-- "National oil companies and fossil fuel subsidy regimes in transition: The case of Indonesia." (with Muhammad Ichsan and Matthew Lockwood). <i>The Extractive Industries and Society</i>. 2022. https://doi.org/10.1016/j.exis.2022.101104
-  <details>
-  <summary>Abstract</summary>
-  <b>Abstract here</b>
- </details>&nbsp;<details>
-  <summary>Bibtex</summary>
-  <b>Bibtex here</b>
- </details>
-
----
-
 #### Work in Progress
 
 - "Digital Dispatch and Demand Response in Grid Emergencies: Evidence from Household Cooling in California’s Flex Alerts"
@@ -26,6 +13,14 @@ description: "List of research activity"
 
 ---
 
+#### Peer-Reviewed
+
+- "National oil companies and fossil fuel subsidy regimes in transition: The case of Indonesia." (with Muhammad Ichsan and Matthew Lockwood). <i>The Extractive Industries and Society</i>. 2022. https://doi.org/10.1016/j.exis.2022.101104
+  <details><summary>Abstract</summary><b>Abstract here</b></details>&nbsp;
+  <details><summary>Bibtex</summary><b>Bibtex here</b></details>
+- "National oil companies and fossil fuel subsidy regimes in transition: The case of Indonesia." (with Muhammad Ichsan and Matthew Lockwood). <i>The Extractive Industries and Society</i>. 2022. https://doi.org/10.1016/j.exis.2022.101104
+
+---
 #### Conference Proceeding
 
 - "Is cheap fuel policy a (short-term) remedy for costly transportation in rural Indonesia?" (with Muhammad Ichsan, Yusuf Martak, Chitra Septyandrica, and Purnomo Yusgiantoro). <i>Proceeding of Medan International Conference on Energy and Sustainability 2020</i>. 2021. http://doi.org/10.1088/1755-1315/753/1/012030
