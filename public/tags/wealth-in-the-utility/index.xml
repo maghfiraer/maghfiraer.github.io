@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>wealth in the utility on Pascal Michaillat</title>
+    <link>https://pascalmichaillat.org/tags/wealth-in-the-utility/</link>
+    <description>Recent content in wealth in the utility on Pascal Michaillat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://pascalmichaillat.org/tags/wealth-in-the-utility/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An Economical Business-Cycle Model</title>
+      <link>https://pascalmichaillat.org/7/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/7/</guid>
+      <description>This paper develops a policy-oriented business-cycle model with fluctuating unemployment, stable inflation, and long zero-lower-bound episodes.</description>
+    </item>
+    
+    <item>
+      <title>Resolving New Keynesian Anomalies with Wealth in the Utility Function</title>
+      <link>https://pascalmichaillat.org/11/</link>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/11/</guid>
+      <description>This paper resolves all the anomalies of the New Keynesian model at the zero lower bound by introducing wealth into the utility function.</description>
+    </item>
+    
+  </channel>
+</rss>

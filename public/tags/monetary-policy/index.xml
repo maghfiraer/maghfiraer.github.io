@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>monetary policy on Pascal Michaillat</title>
+    <link>https://pascalmichaillat.org/tags/monetary-policy/</link>
+    <description>Recent content in monetary policy on Pascal Michaillat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 16 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://pascalmichaillat.org/tags/monetary-policy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Business Cycles and How to Tame Them</title>
+      <link>https://pascalmichaillat.org/c5/</link>
+      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/c5/</guid>
+      <description>This minicourse describes business cycles, develops a matching model to explain them, and discusses how monetary and fiscal policy can tame them.</description>
+    </item>
+    
+    <item>
+      <title>Economic Slack</title>
+      <link>https://pascalmichaillat.org/c2/</link>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/c2/</guid>
+      <description>This graduate course presents matching models of economic slack and uses them to study business-cycle fluctuations, monetary policy, and fiscal policy.</description>
+    </item>
+    
+    <item>
+      <title>An Economical Business-Cycle Model</title>
+      <link>https://pascalmichaillat.org/7/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/7/</guid>
+      <description>This paper develops a policy-oriented business-cycle model with fluctuating unemployment, stable inflation, and long zero-lower-bound episodes.</description>
+    </item>
+    
+    <item>
+      <title>Pricing under Fairness Concerns</title>
+      <link>https://pascalmichaillat.org/8/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/8/</guid>
+      <description>This paper develops a model of pricing in which buyers care about the fairness of markups but misinfer them from prices. The model yields price rigidity.</description>
+    </item>
+    
+    <item>
+      <title>Resolving New Keynesian Anomalies with Wealth in the Utility Function</title>
+      <link>https://pascalmichaillat.org/11/</link>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/11/</guid>
+      <description>This paper resolves all the anomalies of the New Keynesian model at the zero lower bound by introducing wealth into the utility function.</description>
+    </item>
+    
+    <item>
+      <title>Intermediate Macroeconomics</title>
+      <link>https://pascalmichaillat.org/c4/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/c4/</guid>
+      <description>This undergraduate course covers IS-LM model of business cycles, matching model of unemployment, inflation, and Malthusian and Solowian models of growth.</description>
+    </item>
+    
+  </channel>
+</rss>
