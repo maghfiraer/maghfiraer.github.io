@@ -40,6 +40,26 @@ description: "List of research activity"
 #### Conference Proceeding
 
 - "Is cheap fuel policy a (short-term) remedy for costly transportation in rural Indonesia?" (with Muhammad Ichsan, Yusuf Martak, Chitra Septyandrica, and Purnomo Yusgiantoro). <i>Proceeding of Medan International Conference on Energy and Sustainability 2020</i>. 2021. http://doi.org/10.1088/1755-1315/753/1/012030
+  <details><summary>Abstract</summary>
+  <span style="font-size:0.75em;">High fuel prices in rural regions in Indonesia have for years limited the mobility of local communities and their economic development. In addressing the problem, since 2016 the government has implemented a policy called BBM Satu Harga or One Price Fuel to guarantee the provision of fuels at the government's price control in the last miles. In this paper, we assess the impact of the One Price Fuel policy on averaged domestic transport costs in surrounding intervened villages to see the effectiveness of the policy implementation. Our analysis employs Difference in Difference (DD) regression model covering all villages under districts that contain at least one of the 58 intervened subdistricts and a period between 2014 and 2018. We exercise various control variables, fixed effect, and propensity score matching into the model. Although we consider the One Price Fuel policy as a short-term remedy for the problem, our estimates show that the policy has successfully reduced domestic transport costs in the rural regions by almost 65% on average. However, when we divide the rural regions into two categories: The frontier, outermost and underdeveloped villages (3T villages) and non-3T villages; the policy only affects the former. Also, our estimates suggest that improving transportation infrastructure in the villages is among effective policy options to reduce rural transport costs.</span>
+  </details>
+  <details><summary>Bibtex</summary>
+  
+  ```BibTeX
+  @inproceedings{ichsan2021cheap,
+  title={Is cheap fuel policy a (short-term) remedy for costly transportation in rural Indonesia?},
+  author={Ichsan, M and Martak, YF and Ramadhani, M and Septyandrica, CR and Yusgiantoro, P},
+  booktitle={IOP Conference Series: Earth and Environmental Science},
+  volume={753},
+  number={1},
+  pages={012030},
+  year={2021},
+  organization={IOP Publishing}
+  }
+  ```
+  
+  </details>
+
 
 <i>Petroleum engineering research</i> ( <sup>$\S$</sup> indicate student advisee )
 
