@@ -19,7 +19,8 @@ description: "List of research activity"
   <details><summary>Abstract</summary>
   <span style="font-size:0.75em;">It has long been recognised that national oil companies (NOCs) offer the means for funding and delivering fuel subsidies as a politically valuable good. But what happens when the oil begins to run out? Fiscal pressures will clearly increase, but there is also evidence that net importers with NOCs are still more likely to have subsidies than those without. A key question about countries moving through this transition is therefore whether and how the role of NOCs in the subsidy regime changes as the classic logic erodes. We examine these issues in a detailed case study of Indonesia, which became a net oil importer in the early 2000s. A series of partial reforms of FFS has followed, but subsidies remain and the NOC still plays a central role in their delivery. We find that certain functions of the NOC, such as obfuscating the fiscal cost of subsidies, have eroded. But increasing fiscal pressure has not so far overcome the political lock-in of subsidies and institutional inertia in the role of the NOC. Fundamental reform remains unlikely in the short term, but separating the upstream and downstream businesses of the NOC and changing its governance could help support that reform.</span>
   </details>
-  <details><summary>Bibtex</summary><p>
+  <details><summary>Bibtex</summary>
+  
 ```BibTeX
   @article{ichsan2022FFS,
   title = {National oil companies and fossil fuel subsidy regimes in transition: The case of Indonesia},
@@ -32,7 +33,7 @@ description: "List of research activity"
   url = {https://www.sciencedirect.com/science/article/pii/S2214790X2200065X},
   }
 ```
-</p></details>
+  </details>
 
 ---
 #### Conference Proceeding
