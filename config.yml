@@ -90,7 +90,7 @@ params:
           url: "https://github.com/maghfiraer"
 
     assets:
-        #disableHLJS: true
+        disableHLJS: true
         disableScrollBarStyle: true
     cover:
         hiddenInList: false
