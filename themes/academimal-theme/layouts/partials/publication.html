@@ -12,7 +12,7 @@
     {{- end -}}
     </p>
 {{ else }}
-    {{ with .context.book }}<p style="margin:0 0 5px;"><em>{{ . }}</em></p>{{ end }}
+    {{ with .context.book }}<p style="margin:0 0 5px;"><em>{{ . | safeHTML }}</em></p>{{ end }}
 {{ end }}
 {{ $pid := .pid }}
 {{ with .context.abstract }}<p style="margin:0 0 5px;"><a href="javascript:toggle({{ $pid }})">Abstract<span id="pubabslink_{{ $pid }}"> (click to expand)</span></a><span id="pubabs_{{ $pid }}" style="display:none;">: {{ . }}</span></p>{{ end }}
