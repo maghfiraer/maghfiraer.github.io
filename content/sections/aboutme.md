@@ -1,4 +1,5 @@
-Welcome to my website! I am a PhD candidate at Georgia Institute of Technology, [School of Economics](https://econ.gatech.edu). __I will be on the 2026-2027 academic job market.__ 
+Welcome to my website! I am a PhD candidate at Georgia Institute of Technology, [School of Economics](https://econ.gatech.edu). 
+__I will be on the 2026-2027 academic job market.__ 
 
 I am an energy and environmental economist working on the economic impacts of climate change and the energy transition. My work combines tools from applied microeconomics and industrial organization with high-frequency microdata on firms and individuals. 
 
