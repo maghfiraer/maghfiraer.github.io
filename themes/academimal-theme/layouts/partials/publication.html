@@ -1,6 +1,6 @@
 <h3 style="margin:20px 0 5px;">{{ with .context.pdflink }}<a href="{{ . }}" target="blank">{{ end }}{{ .context.title }}{{ with .context.pdflink }}</a>{{ end }}</h3>
 
-{{ with .context.coauthors }}<p style="margin:0 0 5px;">(with {{ . | safeHTML  }}{{ if $.context.first_author }}; <span style="color: #666;">Papp first author</span>{{ end }})</p>{{ end }}
+{{ with .context.coauthors }}<p style="margin:0 0 5px;">(with {{ . }}{{ if $.context.first_author }}; <span style="color: #666;">Papp first author</span>{{ end }})</p>{{ end }}
 
 {{ with .context.note }}<p style="margin:0 0 5px;">{{ . }}</p>{{ end }}
 {{ if .context.journal }}
