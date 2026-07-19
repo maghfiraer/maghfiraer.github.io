@@ -1,8 +1,10 @@
-Welcome to my website! I am a PhD student at Georgia Institute of Technology, [School of Economics](https://econ.gatech.edu). 
+Welcome to my website! I am a PhD candidate at Georgia Institute of Technology, [School of Economics](https://econ.gatech.edu). __I will be on the 2026-2027 academic job market.__ 
 
-I am an energy and environmental economist interested in examining the broad impact of climate change and energy transition using tools from applied microeconomics and industrial organizations. 
+I am an energy and environmental economist working on the economic impacts of climate change and the energy transition. My work combines tools from applied microeconomics and industrial organization with high-frequency microdata on firms and individuals. 
 
-My current projects demonstrate how technology can address environmental challenges: I examine (i) how smart thermostat automation improves energy conservation during grid emergencies, and (ii) how individuals adjust their behavior to avoid pollution using physical activity data from wearable devices. In my ongoing work, I study the impact of battery storage deployment on renewable and conventional generators, specifically in Texas electricity markets.
+My current research examines how new technologies reshape market competition and consumer behavior. In my job market paper, I estimate how battery storage entry affects the market power of incumbent natural gas generators. I also study (i) how smart thermostat automation improves conservation during grid emergencies, and (ii) how individuals adjust their behavior to avoid pollution using physical activity data from wearable devices.
+
+Prior to my PhD, I served as adjunct faculty at the [Institut Teknologi Bandung](https://www.itb.ac.id/?n=1728695487), teaching energy economics and policy. I concurrently advised the Presidential Staff Office, the West Java Governor's Office, the upstream oil and gas regulator, and several state-owned energy enterprises through a series of consulting projects.
 
 <!--Before Georgia Tech, I worked as an academic professional and consultant for various energy and environmental policy think tanks in Indonesia. I hold a B.S. and M.S. in Petroleum Engineering (specialization in Energy Economics and Policy) from [Institute of Technology Bandung](https://www.itb.ac.id/?n=1728695487), and a M.S. in Economics from Georgia Tech.-->
 
