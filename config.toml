@@ -7,7 +7,7 @@ ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
 
 [params]
     shortbio = "PhD candidate in Economics, Georgia Institute of Technology"
-    logo = "afi_headshot_cropped1.png" 
+    logo = "Afi_headshot.jpg" 
 
 [services]
   [services.googleAnalytics]
