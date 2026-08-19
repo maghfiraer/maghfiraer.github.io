@@ -3,7 +3,7 @@ My commitment to teaching is deeply rooted in my personal experience; I have see
 **Teaching Experience**
 - Georgia Institute of Technology
   - Graduate Teaching Fellow at the Georgia Tech [Center for Teaching and Learning](https://ctl.gatech.edu/graduate-teaching-fellows/) 
-  - Instructor of Record: Statistics for Economists (Fall 2025) [[Course Website]](https://maghfiraer.github.io/Stats-F25/) [Teaching Evaluation (email for access)]([https://maghfiraer.github.io/Stats-F25/](https://drive.google.com/drive/folders/1nTscaSS744Ma-H7MlYFXwBQrNCqQSmre?usp=sharing))
+  - Instructor of Record: Statistics for Economists (Fall 2025) [[Course Website]](https://maghfiraer.github.io/Stats-F25/) [[Teaching Evaluation (email for access)]]([https://maghfiraer.github.io/Stats-F25/](https://drive.google.com/drive/folders/1nTscaSS744Ma-H7MlYFXwBQrNCqQSmre?usp=sharing))
   - Guest Lecturer: PhD Environmental Economics (Spring 2025)
   - Head TA:
     -  PhD Econometrics II (Spring 2026)
