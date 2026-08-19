@@ -1,8 +1,11 @@
-Teaching is a transformative part of my academic journey. Inspired by the mentors and teachers who shaped my path, I am committed to guiding students from being passive recipients of theory to becoming active, analytical problem-solvers. I strive to create a classroom environment where students not only master economic tools but also build the confidence to apply them to real-world challenges.
+My commitment to teaching is deeply rooted in my personal experience; I have seen firsthand, since my earliest schooling, how great teaching transforms lives, including my own. My teaching experience spans both undergraduate and graduate levels in both the U.S. and Indonesia.
 
 **Teaching Experience**
 - Georgia Institute of Technology
-  - Instructor of Record: ECON2250 Statistics for Economists (Fall 2025) [Course Website](https://maghfiraer.github.io/Stats-F25/)
-  - Head TA: ECON7023 PhD Econometrics II (Spring 2026), ECON7103 PhD Environmental Economics (Spring 2025), ECON4440/6380 Environmental Economics (Spring 2025,2026, Summer 2023,2024), ECON4351 International Economics (Spring 2023), ECON4170 Math for Economists (Spring 2023,2024), ECON3110 Advanced Microeconomics (Fall 2023), ECON3300 Energy Economics (Fall 2023), ECON3161 Econometric Analysis (Fall 2022), ECON2250 Statistics for Economists (Fall 2024)
+  - Graduate Teaching Fellow at the Georgia Tech [Center for Teaching and Learning](https://ctl.gatech.edu/graduate-teaching-fellows/) 
+  - Instructor of Record: Statistics for Economists (Fall 2025) [Course Website](https://maghfiraer.github.io/Stats-F25/) [Teaching Evaluation (email for access)]([https://maghfiraer.github.io/Stats-F25/](https://drive.google.com/drive/folders/1nTscaSS744Ma-H7MlYFXwBQrNCqQSmre?usp=sharing))
+  - Guest Lecturer: PhD Environmental Economics (Spring 2025)
+  - Head TA: PhD Econometrics II (Spring 2026), PhD Environmental Economics (Spring 2025), Environmental Economics (Spring 2025,2026, Summer 2023,2024), International Economics (Spring 2023), Math for Economists (Spring 2023,2024), Energy Economics (Fall 2023), Advanced Microeconomics (Fall 2023), Econometric Analysis (Fall 2022), Statistics for Economists (Fall 2024)
 - Institut Teknologi Bandung
-  - Instructor: TM6051 Energy Policy (2017-2022), TM4021 Energy Economics (2017-2022), TM4025 Optimization & Operations Research in Oil and Gas (2017)
+  - Instructor: Energy Economics (2017-2022)
+  - Head TA: Master-level Energy Policy (2017-2022), Optimization \& Operations Research (2017)
