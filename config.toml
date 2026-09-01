@@ -7,7 +7,9 @@ ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
 
 [params]
     shortbio = "PhD candidate in Economics, Georgia Institute of Technology"
-    logo = "Afi_headshot_F26edit.jpeg" 
+    logo = "Afi_headshot_F26edit.jpeg"
+    logo_width = "300px"  # Try adding this
+    logo_height = "300px"
 
 [services]
   [services.googleAnalytics]
