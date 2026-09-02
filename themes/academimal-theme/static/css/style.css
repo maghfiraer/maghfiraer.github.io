@@ -423,7 +423,7 @@ footer {
   bottom: 50px;
   -webkit-font-smoothing: subpixel-antialiased; }
 
-@media print, screen and (max-width: 1250px) {/* comment*/
+@media print, screen and (max-width: 1060px) {/* ori 1060 comment*/
   div.wrapper {
     width: auto;
     margin: 0; }
