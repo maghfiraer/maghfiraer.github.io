@@ -307,7 +307,7 @@ a:hover small {
   color: #777; }
 
 .wrapper {
-  width: 1060px;/* 1060 default comment wrapper*/
+  width: 1110px;/* 1060 default comment wrapper*/
   margin: 0 auto; }
 
 blockquote {
@@ -347,7 +347,7 @@ img {
   max-width: 100%; }
 
 header {
-  width: 270px;/* edited comment: originally 270 */
+  width: 320px;/* edited comment: originally 270 */
   float: left;
   position: fixed;
   -webkit-font-smoothing: subpixel-antialiased; }
@@ -359,7 +359,7 @@ header ul {
   background: #f4f4f4;
   border-radius: 5px;
   border: 1px solid #e0e0e0;
-  width: 270px; }/* edited comment: originally 270 */
+  width: 320px; }/* edited comment: originally 270 */
 
 header li {
   width: 89px;
@@ -423,7 +423,7 @@ footer {
   bottom: 50px;
   -webkit-font-smoothing: subpixel-antialiased; }
 
-@media print, screen and (max-width: 1060px) {/* ori 1060 comment*/
+@media print, screen and (max-width: 1110px) {/* ori 1060 comment*/
   div.wrapper {
     width: auto;
     margin: 0; }
