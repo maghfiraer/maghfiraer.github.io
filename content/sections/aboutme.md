@@ -11,7 +11,7 @@ Before my PhD, I served as an adjunct faculty member at the [Institut Teknologi 
 <!--Before Georgia Tech, I worked as an academic professional and consultant for various energy and environmental policy think tanks in Indonesia. I hold a B.S. and M.S. in Petroleum Engineering (specialization in Energy Economics and Policy) from [Institute of Technology Bandung](https://www.itb.ac.id/?n=1728695487), and an M.S. in Economics from Georgia Tech.-->
 
 
-__[CV](/pdf/CV_Afi_Aug26.pdf)__ 
+__[CV (Sep 2026)](/pdf/CV_Afi.pdf)__ 
 
 __[Google Scholar](https://scholar.google.com/citations?user=bpN8RCUAAAAJ)__\
 __[GitHub](https://github.com/maghfiraer)__ 
