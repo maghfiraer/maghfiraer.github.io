@@ -9,3 +9,10 @@ works:
   links:
     - url: "https://maghfiraer.github.io/pdf/flexalert_CRIDC_poster.pdf"
       text: "Poster (Presented at CRIDC@Georgia Tech 2025)"
+
+- title: "Pollution, Avoidance Behavior, and Health"
+  coauthors: "<a href='https://www.bobby-harris.com/' target='_blank'>Bobby Harris</a>"
+  book: "Scheduled for presentation at APPAM 2026. Presented at AERE@SEA 2025, ASHEcon 2025, Atlanta Economics PhD Student Symposium 2025, AERE Summer Conference 2025"
+  abstract: >
+    Avoiding air pollution may protect health while discouraging activities that improve health. We examine this tradeoff using millions of daily wearable observations linked to pollution data. Instrumenting pollution with wind direction, we find that pollution reduces physical activity, shortens sleep, and lowers running performance. Declines in activity are followed by next-day increases, suggesting that people partly adjust when they are active rather than simply forgoing activity. These findings reveal both the scope for adaptation through rescheduling and its limits: pollution affects participation in exercise, performance during exercise, and sleep, extending its economic consequences beyond conventional measures of illness and productivity.
+  
