@@ -11,7 +11,7 @@ Before my PhD, I taught energy economics and policy as an adjunct at the [Instit
 <!--Before Georgia Tech, I worked as an academic professional and consultant for various energy and environmental policy think tanks in Indonesia. I hold a B.S. and M.S. in Petroleum Engineering (specialization in Energy Economics and Policy) from [Institute of Technology Bandung](https://www.itb.ac.id/?n=1728695487), and an M.S. in Economics from Georgia Tech. advising the West Java Governor's Office, the upstream oil and gas regulator, several state-owned energy enterprises, and private companies through a series of consulting projects.-->
 
 
-__[CV](/pdf/CV_Afi.pdf)__ 
+__[CV](/pdf/Ramadhani_CV.pdf)__ 
 
 __[Google Scholar](https://scholar.google.com/citations?user=bpN8RCUAAAAJ)__\
 __[GitHub](https://github.com/maghfiraer)__ 
