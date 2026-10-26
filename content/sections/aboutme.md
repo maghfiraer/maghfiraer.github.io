@@ -1,6 +1,6 @@
 Welcome to my website! I am a PhD candidate at Georgia Institute of Technology, [School of Economics](https://econ.gatech.edu). 
 
-__I will be on the 2026-2027 job market.__ 
+__I am on the 2026-2027 job market.__ 
 
 I am an applied microeconomist interested in policy-relevant issues in energy and environmental economics. My research aims to understand the impacts of climate change, environmental risks, and the energy transition on firm and individual behavior. Using economic theory, econometric methods, and large-scale data, I evaluate the roles of policy, technology, and adaptation in addressing these challenges. 
 
